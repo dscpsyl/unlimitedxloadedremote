@@ -9,8 +9,6 @@ Some time ago, I broke my remove on a fall and I needed a replacement. I couldn'
 
 If you do make any improvements and modifications, all I ask is that you help contribute to this repo with a pull request so the community can also enjoy the better version.  
 
----
-
 ## Contributors 
 
 <a href="https://twitter.com/SimYouLater28">
